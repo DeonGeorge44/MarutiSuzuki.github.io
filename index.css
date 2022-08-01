@@ -1,0 +1,381 @@
+body{
+    margin:0%;
+    background-color:#fff;
+    padding: 0%;
+}
+.headnav{
+background-color: aliceblue;
+width:100%;
+color:bisque;
+
+}
+.nav-item{
+    color:crimson;
+}
+
+.nav-link active{
+    color:bisque;
+}
+
+.overflowimage{
+    
+    width: 100%;
+    background-color:azure;
+   
+}
+
+.s1{
+ color: chartreuse;
+}
+.mm{
+    z-index: 1;
+}
+.kwad45{
+margin-top:3%;
+margin: 80px;
+
+}
+.kwad{
+    
+    position: relative;
+}
+.kwad button{
+    background-color: crimson;
+    border: none;
+    color:azure;
+    position: absolute;
+    bottom: 30%;
+    left: 20%;
+    font-size: 110%;
+}
+.kwad h1{
+    color:azure;
+    position: absolute;
+    bottom: 60%;
+    left: 20%;
+    font-size: 150%;
+}
+.kwad h6{
+    color:black;
+    position: absolute;
+    bottom: 50%;
+    left: 20%;
+    font-size: 120%;
+}
+.kwad22{
+    position: relative;
+}
+.kwad23 h1{
+    color:azure;
+    position: absolute;
+    bottom: 50%;
+    left: 5%;
+    font-size: 150%; 
+}
+.kwad23 h6{
+    color:azure;
+    position: absolute;
+    bottom:45%;
+    left: 5%;
+    font-size: 50%; 
+}
+.kwad32{
+    position:relative;
+}
+.kwad32 h1{
+    color:azure;
+    position: absolute;
+    bottom: 40%;
+    left: 5%;
+    font-size: 150%; 
+}
+.kwad32 button{
+    background-color: crimson;
+    border: none;
+    color:azure;
+    position: absolute;
+    bottom: 30%;
+    left: 5%;
+    font-size: 110%;  
+}
+.vldiv8wad32 button{
+    background-color: crimson;
+    border: none;
+    color:azure;
+    position: absolute;
+    bottom: 30%;
+    left: 5%;
+    font-size: 110%;
+}
+.kwad32 img{
+    max-width:100%;
+}
+.kwad23 button{
+    background-color: crimson;
+    border: none;
+    color:azure;
+    position: absolute;
+    bottom: 30%;
+    left: 6%;
+    font-size: 110%;
+}
+
+
+.kwad1{
+    color: azure;
+    position: absolute;
+    bottom: 10%;
+    left: 40%;
+}
+.kwad13 h1{
+    color: azure;
+    position: absolute;
+    bottom: 50%;
+    left: 10%;
+    font-size: 120%;
+    
+}
+.kwad13 h6{
+    color:azure;
+    position: absolute;
+    bottom: 40%;
+    left: 10%;
+    font-size: 50%;
+    
+}
+.kwad13 a{
+    box-sizing: border-box;
+    font-size: 80%;
+    position: absolute;
+    top: 60%;
+    right: 20%;
+}
+
+.kwad38{
+    color: aliceblue;
+  text-decoration: none;  
+  border: 1px solid #fff;
+  text-align: center;
+  box-sizing: border-box;
+  position: absolute;
+  bottom: 190%;
+  left: 30%;
+
+}
+.kwad39{
+  color: aliceblue;
+  text-decoration: none;  
+  border: 1px solid #fff;
+  text-align: center;
+  box-sizing: border-box;
+  position: absolute;
+  bottom: 150%;
+  left: 20%;
+
+}
+.kwad40{
+    color: aliceblue;
+  text-decoration: none;  
+  border: 1px solid #fff;
+  text-align: center;
+  box-sizing: border-box;
+  position: absolute;
+  bottom: 150%;
+  left: 40%;
+
+}
+.kwad41{
+    color: aliceblue;
+  text-decoration: none;  
+  border: 1px solid #fff;
+  text-align: center;
+  box-sizing: border-box;
+  position: absolute;
+  bottom:150%;
+  left: 70%;
+  
+}
+
+.gallery-header{
+
+color: black;
+
+
+font-size:290%;
+text-align:center;
+}
+.reel34{
+    width: fit-content;
+}
+.textAP{
+    text-align: center;
+    
+}
+.textAP p{
+   font-size: 280%;
+
+}
+.textAP h1{
+font-size:510%;
+}
+.valuediv{
+    background-image:url(our-value-bg.jpg) ;
+   background-size:100% 90vh;
+   
+   background-repeat: no-repeat;
+   height: 80vh;
+   width: 100%;
+   
+}
+
+.valuediv span{
+    padding-left: 45%;
+    font-size:  170%;
+    
+}
+.vldiv2{
+    padding-left: 23%;   
+}
+.valuediv h6{
+    padding-left: 44%;
+    padding-top: 6%;font-size: 190%;
+
+}
+.vldiv8{
+    position: relative;
+
+}
+
+
+.vldiv5{
+    position: absolute;
+    left: 65%;
+    bottom: 60%;
+    
+}
+.vldiv6{
+    position: absolute;
+    left:28%;
+    bottom: 60%;
+    
+}
+.img12{
+    position:relative;
+}
+.img12 h1{
+    position: absolute;
+    padding-left: 10%;
+    top: 50%;
+}
+.img56{
+    height: 80%;
+    width: 100%;
+}
+.img13{
+    position:relative;
+    
+}
+.img13 h2{
+    position: absolute;
+    padding-left: 10%;
+    top: 30%;
+}
+.img13 span{
+    position: absolute;
+    padding-left: 10%;
+    top: 60%;
+}
+.footer{
+    background-color:#333;
+    height:530px;
+    width:100%;
+    display: flex;
+    color: azure
+}
+.footer1{
+    height: 900px;
+    width: 25%;
+    
+}
+.footer2{
+    height: 530px;
+
+}
+.footer2 li{
+    list-style: none;
+    padding: 15px;
+}   
+.footer2 li:hover{
+    text-decoration: underline;
+    cursor: pointer;
+    
+}   
+
+
+.footer3{
+    height: 530px;
+
+}
+.footer3 li{
+    list-style: none;
+    padding: 15px;
+}   
+.footer3 li:hover{
+    text-decoration: underline;
+    cursor: pointer;
+    
+}     
+
+.footer4{
+    height: 530px;
+
+}
+.footer4 li{
+    list-style: none;
+    padding: 10px;
+}   
+.footer4 li:hover{
+    text-decoration: underline;
+    cursor: pointer;
+    
+}
+@media screen and (max-width: 1172px) {
+   .footer{
+    position: relative;
+    height: 120%;
+   }
+   
+   
+  .footer2{
+    position: absolute;
+    padding-left:28%;
+    height: 1000%;
+    font-size:x-large;
+   }
+
+   .footer3{
+    position: absolute;
+    left: 600px;
+    font-size: x-large;
+   }
+   .footer4{
+    position: absolute;
+    top: 490px;
+   left: 20px; 
+   font-size: x-large;
+   }
+   .footer5{
+    position: absolute;
+    bottom: 100px;
+   left: 75px; 
+   font-size: x-large;
+   }
+  }   
+ .text-white{
+    text-decoration: none;
+ }
+
+  
+
+
+  
